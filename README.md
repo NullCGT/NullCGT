@@ -9,6 +9,9 @@
 - 😄 Pronouns: She/Her/Hers!
 - ⚡ Opinions expressed here are my own, and do not reflect the views of any company or organization that I am employed by or have been previously employed by. Additionally, all public repositories found below are not managed or the property of any company or organization, current or previous.
 
+### Reference
+- 🖌 [Dotfiles](https://github.com/NullCGT/Dotfiles): A repository for my personal dotfiles. Useful if you want to make your desktop look like mine.
+
 ### Hobbyist Projects
-- [Mutagen](https://github.com/NullCGT/2017-FTGAIC-Submission-Mutagen): My entry in the 2017 Fighting Game AI Competition. Placed 4th overall.
-- [SpliceHack](https://github.com/NullCGT/SpliceHack): A fork of NetHack. Actively developed, with an active playerbase.
+- 🧪 [Mutagen](https://github.com/NullCGT/2017-FTGAIC-Submission-Mutagen): My entry in the 2017 Fighting Game AI Competition. Placed 4th overall.
+- 🛡 [SpliceHack](https://github.com/NullCGT/SpliceHack): A fork of NetHack. Actively developed, with an active playerbase.
