@@ -15,4 +15,4 @@
 ### Hobbyist Projects
 - 🧪 [Mutagen](https://github.com/NullCGT/2017-FTGAIC-Submission-Mutagen): My entry in the 2017 Fighting Game AI Competition. Placed 4th overall.
 - 🛡 [SpliceHack](https://github.com/NullCGT/SpliceHack): A fork of NetHack. Actively developed, with an active playerbase.
-- 🛡 [WEAL](https://github.com/NullCGT/WEAL-RL): A traditional roguelike built from scratch in C.
+- 🛡 [Zenzizenzizenzic](https://github.com/NullCGT/Zenzizenzizenzic-RL): A traditional roguelike built from scratch in C.
